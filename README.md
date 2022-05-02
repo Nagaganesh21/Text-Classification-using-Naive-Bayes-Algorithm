@@ -1,7 +1,7 @@
 # Text-Classification-Application
 
 ## Introduction
-Hello all, this project is my experiement with the Naive bayes classifier and implemented this by following the Simiplilearn's lecture, [Text Classification Using Naive Bayes | Naive Bayes Algorithm In Machine Learning](link: https://www.youtube.com/watch?v=60pqgfT5tZM) in Youtube. But what I did on my own is, to deploy the trained Naive bayes classifier model using Flask so that a user can use it through the front-end web application.
+Hello all, this project is my experiement with the Naive bayes classifier and implemented this by following the Simiplilearn's lecture, [Text Classification Using Naive Bayes | Naive Bayes Algorithm In Machine Learning](https://www.youtube.com/watch?v=60pqgfT5tZM) in Youtube. But what I did on my own is, to deploy the trained Naive bayes classifier model using Flask so that a user can use it through the front-end web application.
 
 Entire development part was done using Jupyter notebook while the deployment part was done using VSCode.
 ## About the Dataset
@@ -61,9 +61,9 @@ Using Joblib library, we saved our model as a .pkl file. Then, to deploy this mo
 ![image](https://user-images.githubusercontent.com/22242325/166195407-02d970f4-022e-4767-b236-fb3b826e34d1.png)
 
 ## References:
-[Bayes Theorem lecture by Krish Naik](https://www.youtube.com/watch?v=71oNiqPoKD8&ab_channel=KrishNaik)
-[Indepth intuition of a Naive Bayes Classifier by Krish Naik](https://www.youtube.com/watch?v=jS1CKhALUBQ&ab_channel=KrishNaik)
-[Application of Naïve Bayes Classifier on Text Data (NLP) - The intuition](https://www.youtube.com/watch?v=temQ8mHpe3k&ab_channel=KrishNaik)
+[Bayes Theorem lecture by Krish Naik](https://www.youtube.com/watch?v=71oNiqPoKD8&ab_channel=KrishNaik) <br>
+[Indepth intuition of a Naive Bayes Classifier by Krish Naik](https://www.youtube.com/watch?v=jS1CKhALUBQ&ab_channel=KrishNaik) <br>
+[Application of Naïve Bayes Classifier on Text Data (NLP) - The intuition](https://www.youtube.com/watch?v=temQ8mHpe3k&ab_channel=KrishNaik) <br>
 
 
 
