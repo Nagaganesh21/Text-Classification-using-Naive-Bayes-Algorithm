@@ -48,6 +48,10 @@ Using Joblib library, we saved our model as a .pkl file. Then, to deploy this mo
 
 ## Web application UI
 
+Deployed this web application on Heroku Cloud.
+
+Link: - https://nb-text-classification.herokuapp.com/
+
 ![image](https://user-images.githubusercontent.com/22242325/166197641-7a03a361-c92b-438f-9b02-421f4017a84f.png)
 
 ## Tools used
