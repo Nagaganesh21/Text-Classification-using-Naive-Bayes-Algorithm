@@ -48,14 +48,14 @@ Using Joblib library, we saved our model as a .pkl file. Then, to deploy this mo
 
 ## Web application UI
 
-Deployed this web application on Heroku Cloud.
+Deployed this web application on Heroku Cloud using Gunicorn a Python web server gateway interface.
 
 Link: - https://nb-text-classification.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/22242325/166197641-7a03a361-c92b-438f-9b02-421f4017a84f.png)
 
 ## Tools used
-![image](https://user-images.githubusercontent.com/22242325/166201836-3e24bb1d-6f48-4a55-bb0d-35f06ae0acf1.png)
+![image](https://user-images.githubusercontent.com/22242325/166202085-d6caa906-ec15-41e5-a437-18bfd8a45fce.png)
 
 ## References:
 [Bayes Theorem lecture by Krish Naik](https://www.youtube.com/watch?v=71oNiqPoKD8&ab_channel=KrishNaik) <br>
