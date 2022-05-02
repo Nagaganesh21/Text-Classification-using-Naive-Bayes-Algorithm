@@ -5,7 +5,7 @@ Hello all, this project is my experiement with the Naive bayes classifier and im
 
 Entire development part was done using Jupyter notebook while the deployment part was done using VSCode.
 ## About the Dataset
-The dataset used for this project was fetch_20newsgroups,imported from "sklearn.datasets". As the name suggests, this dataset contains articles which are classified into 20 news groups, as mentioned below.
+The dataset used for this project was fetch_20newsgroups, imported from "sklearn.datasets". As the name suggests, this dataset contains articles which are classified into 20 news groups, as mentioned below.
 
 1. alt.atheism
 2. comp.graphics
@@ -32,7 +32,7 @@ This dataset was split into training and testing sets respectively.
 
 ## Training the Naive Bayes classifier
 
-First, to extract features from the data, we vectorized each article in the training set by using the "TfidfVectorizer", imported from sklearn.feature_extraction.text. This assigns class to each word in the article based on the probability. 
+First, to extract features from the data, we vectorized each article in the training set by using the "TfidfVectorizer", imported from sklearn.feature_extraction.text. This assigns class to each vector in the article based on the probability. 
 
 Then, we used "MultinomialNB" algorithm (since this is a multi classification problem), imported from from sklearn.naive_bayes. We trained a model by fitting  this MultinomialNB on the training dataset.
 
