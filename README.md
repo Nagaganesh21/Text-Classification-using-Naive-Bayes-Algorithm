@@ -55,7 +55,7 @@ Link: - https://nb-text-classification.herokuapp.com/
 ![image](https://user-images.githubusercontent.com/22242325/166197641-7a03a361-c92b-438f-9b02-421f4017a84f.png)
 
 ## Tools used
-![Tools](https://user-images.githubusercontent.com/22242325/166197241-07b2d242-a793-46b2-a7fb-313d910efcde.png)
+![image](https://user-images.githubusercontent.com/22242325/166201836-3e24bb1d-6f48-4a55-bb0d-35f06ae0acf1.png)
 
 ## References:
 [Bayes Theorem lecture by Krish Naik](https://www.youtube.com/watch?v=71oNiqPoKD8&ab_channel=KrishNaik) <br>
