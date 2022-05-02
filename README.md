@@ -46,6 +46,10 @@ we used the trained model to make predictions on the test data and visualized th
 
 Using Joblib library, we saved our model as a .pkl file. Then, to deploy this model, we created a web application in python using the Flask - a micro web framework in VSCode, which works as a back-end. It takes input from the front-end webpage (developed using HTML5), makes prediction and returns the result in a user understandable format which gets displayed in the same front-end web page, so that a user can sense it.
 
+## Web application UI
+
+![image](https://user-images.githubusercontent.com/22242325/166197641-7a03a361-c92b-438f-9b02-421f4017a84f.png)
+
 ## Tools used
 ![Tools](https://user-images.githubusercontent.com/22242325/166197241-07b2d242-a793-46b2-a7fb-313d910efcde.png)
 
