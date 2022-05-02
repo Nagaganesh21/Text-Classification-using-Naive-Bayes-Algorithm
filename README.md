@@ -47,18 +47,8 @@ we used the trained model to make predictions on the test data and visualized th
 Using Joblib library, we saved our model as a .pkl file. Then, to deploy this model, we created a web application in python using the Flask - a micro web framework in VSCode, which works as a back-end. It takes input from the front-end webpage (developed using HTML5), makes prediction and returns the result in a user understandable format which gets displayed in the same front-end web page, so that a user can sense it.
 
 ## Tools used
+![Tools](https://user-images.githubusercontent.com/22242325/166197085-b2ddb679-adc6-4ce6-bbe9-ac5eb2593d07.png)
 
-![image](https://user-images.githubusercontent.com/22242325/166194914-1f7a02fe-67ea-4397-8904-69f225250af6.png)
-![image](https://user-images.githubusercontent.com/22242325/166194954-a4599de6-3414-419c-aae0-ea650f76630f.png)
-![image](https://user-images.githubusercontent.com/22242325/166194977-5cd775fe-4e51-4f9b-8cd5-71bd22df6c99.png)
-![image](https://user-images.githubusercontent.com/22242325/166195067-b706c72a-ddc5-4e5d-890e-ca38e0a6638b.png)
-![image](https://user-images.githubusercontent.com/22242325/166195187-266a0b24-5a30-4d01-90d9-20b446408136.png)
-![image](https://user-images.githubusercontent.com/22242325/166195211-5b20fe0e-8707-462e-8697-ea979a91a103.png)
-![image](https://user-images.githubusercontent.com/22242325/166195243-d2c412f0-7063-439e-af9b-6768c90a1a41.png)
-![image](https://user-images.githubusercontent.com/22242325/166195273-06ddc71c-04fd-4832-84c2-ad4ba17a53e6.png)
-![image](https://user-images.githubusercontent.com/22242325/166195340-d45e291e-4aee-4ad4-bc73-ddcba0d66a21.png)
-![image](https://user-images.githubusercontent.com/22242325/166195380-db8a3fdd-b726-44e3-af21-f63b43d67220.png)
-![image](https://user-images.githubusercontent.com/22242325/166195407-02d970f4-022e-4767-b236-fb3b826e34d1.png)
 
 ## References:
 [Bayes Theorem lecture by Krish Naik](https://www.youtube.com/watch?v=71oNiqPoKD8&ab_channel=KrishNaik) <br>
