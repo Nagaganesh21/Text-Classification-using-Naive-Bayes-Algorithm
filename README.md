@@ -47,8 +47,7 @@ we used the trained model to make predictions on the test data and visualized th
 Using Joblib library, we saved our model as a .pkl file. Then, to deploy this model, we created a web application in python using the Flask - a micro web framework in VSCode, which works as a back-end. It takes input from the front-end webpage (developed using HTML5), makes prediction and returns the result in a user understandable format which gets displayed in the same front-end web page, so that a user can sense it.
 
 ## Tools used
-![Tools](https://user-images.githubusercontent.com/22242325/166197085-b2ddb679-adc6-4ce6-bbe9-ac5eb2593d07.png)
-
+![Tools](https://user-images.githubusercontent.com/22242325/166197241-07b2d242-a793-46b2-a7fb-313d910efcde.png)
 
 ## References:
 [Bayes Theorem lecture by Krish Naik](https://www.youtube.com/watch?v=71oNiqPoKD8&ab_channel=KrishNaik) <br>
