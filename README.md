@@ -5,7 +5,7 @@ Hello all, this project is my experiement with the Naive bayes classifier and im
 
 Entire development part was done using Jupyter notebook while the deployment part was done using VSCode.
 ## About the Dataset
-The dataset used for this project was fetch_20newsgroups, can be imported from "sklearn.datasets". As the name suggests, this dataset contains articles which are classified into 20 news groups, as mentioned below.
+The dataset used for this project was fetch_20newsgroups,imported from "sklearn.datasets". As the name suggests, this dataset contains articles which are classified into 20 news groups, as mentioned below.
 
 1. alt.atheism
 2. comp.graphics
