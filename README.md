@@ -60,7 +60,7 @@ Link: - https://nb-text-classification.herokuapp.com/
 ## References:
 [Bayes Theorem lecture by Krish Naik](https://www.youtube.com/watch?v=71oNiqPoKD8&ab_channel=KrishNaik) <br>
 [Indepth intuition of a Naive Bayes Classifier by Krish Naik](https://www.youtube.com/watch?v=jS1CKhALUBQ&ab_channel=KrishNaik) <br>
-[Application of Naïve Bayes Classifier on Text Data (NLP) - The intuition](https://www.youtube.com/watch?v=temQ8mHpe3k&ab_channel=KrishNaik) <br>
+[Application of Naïve Bayes Classifier on Text Data (NLP) - The intuition by Krish Naik](https://www.youtube.com/watch?v=temQ8mHpe3k&ab_channel=KrishNaik) <br>
 [Deploying a web application in Heroku using Heroku CLI](https://www.youtube.com/watch?v=aUW5GAFhu6s&t=47s&ab_channel=CodingSrc)
 
 
